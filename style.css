@@ -4,3 +4,11 @@ div {
 h1 {
     color: blue;
 }
+
+#third > span {
+    visibility: hidden;
+}
+
+.right p {
+    display: none;
+}
