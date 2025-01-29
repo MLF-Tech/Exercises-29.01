@@ -12,3 +12,12 @@ h1 {
 .right p {
     display: none;
 }
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+p {
+    color: red;
+}
