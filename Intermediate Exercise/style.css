@@ -21,3 +21,11 @@ img {
 p {
     color: red;
 }
+
+.right p {
+    display:block;
+}
+
+#third p {
+    background-color: rgb(207, 233, 59);
+}
